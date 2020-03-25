@@ -1,0 +1,10 @@
+/Users/tomer/Projects/Card/bin/Debug/netcoreapp3.1/Card.deps.json
+/Users/tomer/Projects/Card/bin/Debug/netcoreapp3.1/Card.runtimeconfig.json
+/Users/tomer/Projects/Card/bin/Debug/netcoreapp3.1/Card.runtimeconfig.dev.json
+/Users/tomer/Projects/Card/bin/Debug/netcoreapp3.1/Card.dll
+/Users/tomer/Projects/Card/bin/Debug/netcoreapp3.1/Card.pdb
+/Users/tomer/Projects/Card/obj/Debug/netcoreapp3.1/Card.csprojAssemblyReference.cache
+/Users/tomer/Projects/Card/obj/Debug/netcoreapp3.1/Card.AssemblyInfoInputs.cache
+/Users/tomer/Projects/Card/obj/Debug/netcoreapp3.1/Card.AssemblyInfo.cs
+/Users/tomer/Projects/Card/obj/Debug/netcoreapp3.1/Card.dll
+/Users/tomer/Projects/Card/obj/Debug/netcoreapp3.1/Card.pdb
